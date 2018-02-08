@@ -72,6 +72,10 @@ body {
 	word-wrap: break-word;
 }
 
+.r {
+    font-size:12px;
+}
+
 .container, .container-inner {
 	width: 100%;
 	max-width: 1080px;
@@ -621,7 +625,7 @@ select {
 
 .post__content a, .list__excerpt a, .warning a {
 	font-weight: 700;
-	color: #e64946;
+	color: #00008B;
 }
 
 .post__content a:hover, .list__excerpt a:hover, .warning a:hover {
